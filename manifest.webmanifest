@@ -1,0 +1,15 @@
+{
+	"name": "références de couleurs",
+	"short_name": "nuancier",
+	"icons": [
+		{	"src": "icone-144.png", "sizes": "144x144", "type": "image/png"	},
+		{	"src": "icone-192.png", "sizes": "192x192", "type": "image/png"	},
+		{	"src": "icone-512.png", "sizes": "512x512", "type": "image/png"	}
+	],
+	"version": "1",
+	"lang": "fr-FR",
+	"start_url": "/couleurs/index.html",
+	"display": "standalone",
+	"background_color": "ivory",
+	"theme_color": "#FCF"
+}
